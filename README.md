@@ -1,4 +1,4 @@
-#README  Campus Cycle: the course starter
+# Campus Cycle: the course starter
 
 Campus Cycle is a small, complete website for a made-up bicycle repair service at a college. It is
 the starter of the course "Building better websites": you make your own copy, put it online, and
